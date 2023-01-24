@@ -1,6 +1,6 @@
 ### Welcome to my profile! 👋
 
-Below are several repos that collect the work I have done/are doing at the moment!
+Below are several repos that collect some of my projects!
 
 [**Generative Modelling**](https://github.com/ConnorWatts/Generative-Modelling-Projects) 🧞 🧞 🧞
 
